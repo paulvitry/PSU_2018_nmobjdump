@@ -1,0 +1,9 @@
+*.pdf
+*.o
+*.out
+tmp
+my
+no
+norminette
+print
+*.rb
